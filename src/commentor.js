@@ -1,4 +1,4 @@
-/* commentor js - copyright by ilhamb */
+/* commentor js ver 1 - copyright by ilhamb */
 class Commentor {
     constructor(data = {wrapper: null, data: [], id: null, icons: null, maxLength: 250, minLength: 50})
     {
